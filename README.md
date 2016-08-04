@@ -122,7 +122,7 @@ Java核心技术学习代码<br>
 	├── 	BasicThreads.java				// 线程简单使用
 	├── 	CachedThreadPool.java			// 线程池CachedThreadPool的简单使用
 	├── 	CallableDemo.java				// Callable接口的使用 --- 实现带返回值的任务
-	├── 	DaemonFromFactory.java				// 后台线程工厂类的使用
+	├── 	DaemonFromFactory.java			// 后台线程工厂类的使用
 	├── 	DaemonThreadFactory.java		// 线程工厂类
 	├── 	DaemonsDontRunFinally.java		// 后台线程遇到Finally
 	├── 	FixedThreadPool.java			// 线程池FixedThreadPool的简单使用
